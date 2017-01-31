@@ -1,5 +1,5 @@
 # kodi-habitica
-An add-on for Habitica on Kodi platform. This add-on uses Habitica API to retrieve user's information and manipulate them within Kodi.
+An add-on for Habitica on Kodi platform. This add-on uses Habitica API to retrieve user's information and manipulate them within Kodi. Capable of handling dailies , habits ,and tasks.
 ## Screenshots
 Startup After login
 <img src="https://raw.githubusercontent.com/Majed6/kodi-habitica/master/screenshots/Habitica%20on%20Kodi%20After%20login.png" >
@@ -7,7 +7,7 @@ Marking a daily as complete
 <img src="https://raw.githubusercontent.com/Majed6/kodi-habitica/master/screenshots/Habitica%20on%20Kodi%20Daily.png">
 XP reward after completing a daily
 <img src="https://raw.githubusercontent.com/Majed6/kodi-habitica/master/screenshots/Habitica%20on%20Kodi%20Daily%20reward.png">
-Coins reward after 
+Coins reward after completing a daily 
 <img src="https://raw.githubusercontent.com/Majed6/kodi-habitica/master/screenshots/Habitica%20on%20Kodi%20Daily%20Gold%20reward.png">
 
 ## Habitica
