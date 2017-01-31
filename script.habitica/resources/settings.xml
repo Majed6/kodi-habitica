@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="32000">
+        <setting id="API_Token" type="text" label="32011" default=""/>
+	<setting id="ID" type="text" label="32012" default=""/>
+    </category>
+</settings>

@@ -1,0 +1,39 @@
+# Kodi Media Center language file
+# Addon Name: Habitica
+# Addon id: script.habitica
+# Addon Provider: Majed
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Majed\n"
+"Language-Team: English \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "Addon Summary"
+msgid "Addon for Habitica"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Habitica is a free habit building and productivity app that treats your real life like a game. With in-game rewards and punishments to motivate you"
+msgstr ""
+
+#Kodion Settings
+
+msgctxt "#32000"
+msgid "General"
+msgstr ""
+
+msgctxt "#32011"
+msgid "API Token"
+msgstr ""
+
+msgctxt "#32012"
+msgid "ID"
+msgstr ""
